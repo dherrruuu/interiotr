@@ -17,9 +17,9 @@ const bodyFont = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Interio & Trade associates | Luxury Interior Design & Execution",
+  title: "Balaji Wood Decor | Luxury Interior Design & Execution",
   description:
-    "Frontend-only luxury website for Interio & Trade associates, an interior design and raw material supply studio.",
+    "Frontend-only luxury website for Balaji Wood Decor, an interior design studio & Execution company.",
 };
 
 export default function RootLayout({

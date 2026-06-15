@@ -639,7 +639,7 @@ export function LuxurySite() {
             </div>
             <div className="hidden sm:block">
               <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
-                Interio & Trade associates
+                Balaji Wood Decor
               </p>
               <p className="text-sm text-[color:var(--foreground)]/90">Luxury Interiors & Execution</p>
             </div>
@@ -726,13 +726,13 @@ export function LuxurySite() {
           <div className="mx-auto grid max-w-7xl gap-12 px-6 pb-20 pt-10 sm:px-8 lg:grid-cols-[1.05fr_0.95fr] lg:items-center lg:px-10 lg:pb-28 lg:pt-16">
             <div className="space-y-8">
               <div className="space-y-4">
-                <Badge>Luxury Interiors + Raw Material Supply</Badge>
+                <Badge>Luxury Interiors</Badge>
                 <div className="max-w-3xl space-y-5">
                   <p
                     data-hero-line
                     className="text-xs uppercase tracking-[0.42em] text-[color:var(--muted)]"
                   >
-                    Interio & Trade associates
+                    Balaji Wood Decor
                   </p>
                   <h1
                     data-hero-line
@@ -744,8 +744,7 @@ export function LuxurySite() {
                     data-hero-line
                     className="max-w-2xl text-base leading-8 text-[color:var(--muted)] sm:text-lg"
                   >
-                    An elevated interior design and turnkey execution studio that also supplies
-                    trusted raw materials to builders and contractors.
+                    An elevated interior design and turnkey execution studio
                   </p>
                 </div>
               </div>
@@ -883,7 +882,7 @@ export function LuxurySite() {
           <SectionShell
             eyebrow="About"
             title="A studio shaped around trust, detail, and quiet confidence."
-            description="Interio & Trade associates blends interior design, turnkey execution, and material sourcing into one disciplined experience for homeowners, developers, and contractors."
+            description="Balaji Wood Decor blends interior design, turnkey execution, and material sourcing into one disciplined experience for homeowners, developers, and contractors."
           />
 
           <div className="mx-auto mt-10 grid max-w-7xl gap-6 px-6 sm:px-8 lg:grid-cols-[1.15fr_0.85fr] lg:px-10">
@@ -1501,7 +1500,7 @@ export function LuxurySite() {
               </div>
               <div>
                 <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
-                  Interio & Trade associates
+                  Balaji Wood Decor
                 </p>
                 <p className="text-sm text-[color:var(--foreground)]/90">
                   Luxury Interiors, Execution, and Material Supply
