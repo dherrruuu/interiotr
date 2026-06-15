@@ -630,20 +630,20 @@ export function LuxurySite() {
       >
         <div className={`mx-auto flex max-w-7xl items-center justify-between rounded-full border border-[color:var(--border)] px-4 py-3 backdrop-blur-2xl ${glassPanel}`}>
           <button
-            type="button"
-            onClick={() => scrollToSection("home")}
-            className="group flex items-center gap-3 text-left"
-          >
-            <div className="flex h-10 w-10 items-center justify-center rounded-full border border-[color:var(--border)] bg-white/5 text-sm font-semibold tracking-[0.3em] text-[color:var(--accent)]">
-              BWD
-            </div>
-            <div className="hidden sm:block">
-              <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
-                Balaji Wood Decor
-              </p>
-              <p className="text-sm text-[color:var(--foreground)]/90">Luxury Interiors & Execution</p>
-            </div>
-          </button>
+  type="button"
+  onClick={() => scrollToSection("home")}
+  className="group flex items-center gap-3 text-left"
+>
+  <div className="flex h-11 w-11 items-center justify-center rounded-full border border-[color:var(--border)] bg-white/5 text-sm font-semibold tracking-[0.3em] text-[color:var(--accent)]">
+    BWD
+  </div>
+  <div className="hidden sm:block">
+    <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
+      Balaji Wood Decor
+    </p>
+    <p className="text-sm text-[color:var(--foreground)]/90">Luxury Interiors & Execution</p>
+  </div>
+</button>
 
           <nav className="hidden items-center gap-1 lg:flex">
             {[
@@ -1495,18 +1495,18 @@ export function LuxurySite() {
         <div className="mx-auto flex max-w-7xl flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
           <div className="space-y-4">
             <div className="flex items-center gap-3">
-              <div className="flex h-11 w-11 items-center justify-center rounded-full border border-[color:var(--border)] bg-white/5 text-sm font-semibold tracking-[0.3em] text-[color:var(--accent)]">
-                BWD
-              </div>
-              <div>
-                <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
-                  Balaji Wood Decor
-                </p>
-                <p className="text-sm text-[color:var(--foreground)]/90">
-                  Luxury Interiors, Execution, and Material Supply
-                </p>
-              </div>
-            </div>
+  <div className="flex h-11 w-11 items-center justify-center rounded-full border border-[color:var(--border)] bg-white/5 text-sm font-semibold tracking-[0.3em] text-[color:var(--accent)]">
+    BWD
+  </div>
+  <div>
+    <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
+      Balaji Wood Decor
+    </p>
+    <p className="text-sm text-[color:var(--foreground)]/90">
+      Luxury Interiors & Execution
+    </p>
+  </div>
+</div>
             <p className="max-w-xl text-sm leading-7 text-[color:var(--muted)]">
               A premium frontend experience built for visual presentation, brand identity, and
               smooth conversion-focused storytelling.
