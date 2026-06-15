@@ -635,7 +635,7 @@ export function LuxurySite() {
             className="group flex items-center gap-3 text-left"
           >
             <div className="flex h-10 w-10 items-center justify-center rounded-full border border-[color:var(--border)] bg-white/5 text-sm font-semibold tracking-[0.3em] text-[color:var(--accent)]">
-              ITA
+              BWD
             </div>
             <div className="hidden sm:block">
               <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
@@ -1496,7 +1496,7 @@ export function LuxurySite() {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <div className="flex h-11 w-11 items-center justify-center rounded-full border border-[color:var(--border)] bg-white/5 text-sm font-semibold tracking-[0.3em] text-[color:var(--accent)]">
-                ITA
+                BWD
               </div>
               <div>
                 <p className="text-xs uppercase tracking-[0.35em] text-[color:var(--muted)]">
